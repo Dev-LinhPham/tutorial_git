@@ -12,12 +12,12 @@ public:
 
 void Git::commit()
 {
-
+    cout << "Commit file before push" << endl;
 }
 
 void Git::push()
 {
-    
+    cout << "Push repo " << endl;
 }
 
 
